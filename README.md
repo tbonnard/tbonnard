@@ -1,8 +1,5 @@
-### 👋
-# gif Vote
-Web application to vote for gifs per category and create a hall of fame of gifs!
+### Bonjour 👋
 
-### Demo
 [Voir mon portfolio](http://tbonnard.pythonanywhere.com/)
 </br>
 
