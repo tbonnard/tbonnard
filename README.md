@@ -1,9 +1,9 @@
 ### Bonjour 👋
-
+</br>
 [Voir mon portfolio](http://tbonnard.pythonanywhere.com/)
 </br>
 
-### Langages de la plateforme
+### Langages
 Python
 </br>JavaScript
 </br>Django
