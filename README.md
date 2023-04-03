@@ -7,7 +7,7 @@ Analyste d’affaires/fonctionnel TI et gestionnaire de plus de 10 ans d’expé
 [Voir mon portfolio](https://tbonnard.onrender.com?visitor=74829)
 </br>
 
-### Langages
+### Langages / Techno
 C#
 </br>Python
 </br>Django
