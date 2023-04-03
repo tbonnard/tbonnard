@@ -13,6 +13,5 @@ C#
 </br>Django
 </br>JavaScript
 </br>ReactJS
-</br>NodeJS
 
 
